@@ -1,5 +1,5 @@
 # Ironman Results Web Scraper
-Web scraping notebook &amp; script for extracting Ironman Dataset.
+Web scraping notebook &amp; script for extracting Ironman 140.6 results from a website.
 
 # Overview
 The following files (mainly the Jupyter notebook and Python script) were used to scrape 140.6 Ironman race results ranging from 2002 to 2024 (as of 12-05-2024). Note,  the data was not scraped from the official Ironman website, but a [proxy-website](https://www.coachcox.co.uk/imstats/) not owned by Ironman. 
